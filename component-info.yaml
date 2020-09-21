@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-component-cra1
+  description: rtwydggdg
+  annotations:
+    github.com/project-slug: shmidt-i-test/cra-test-test
+spec:
+  type: website
+  lifecycle: experimental
+  owner: shmidt-i
